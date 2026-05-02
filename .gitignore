@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*.class
+.venv/
+venv/
+ENV/
+
+# Data & Plots (Optional: keep if you want them in the repo, remove if not)
+# *.png
+
+# System
+.DS_Store
+Thumbs.db
